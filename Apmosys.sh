@@ -15,4 +15,5 @@ echo "Operating System: $os_info"
 echo "Kernel Version: $kernel_version"
 echo "CPU Info: $cpu_info"
 echo "Memory Info: $memory_info"
-This is Script of Akshay V2
+This is Script of Akshay V3
+ujbzduk
